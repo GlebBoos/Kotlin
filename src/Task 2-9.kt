@@ -16,6 +16,7 @@ fun main(args: Array<String>) {
 
     var table = Array(n1, { Array(3, {" "}) })
 
+
     //Заполнение матрицы
     //for (i in 0 until n1){
     //    for (j in 0 until 3)
